@@ -1,0 +1,11 @@
+@import "../App.scss";
+
+.footer {
+  text-align: $text-align;
+  align-items: $align-items;
+  padding: 3em;
+  p {
+    color: $gray;
+    font-size: 18px;
+  }
+}

@@ -1,0 +1,18 @@
+@import "../App.scss";
+
+.social-links {
+  display: flex;
+  flex-direction: row;
+  align-items: $align-items;
+  justify-content: $justify-content;
+}
+
+.social-links-container {
+  display: flex;
+  align-items: $align-items;
+}
+
+.social-link {
+  width: 2em;
+  margin: 0 0.5em;
+}
